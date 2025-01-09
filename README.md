@@ -26,7 +26,7 @@ This repository contains SQL queries to analyze user engagement across various s
 The SQL scripts in this project analyze engagement metrics, identify trends, and classify users based on their activity levels. The dataset used is hypothetical and demonstrates key SQL concepts.
 
 ### Files in This Repository
-- `dataset.sql`: Contains the dataset needed for the analysis
+- `dataset.csv`: Contains the dataset used for the analysis
 - `queries.sql`: Contains the SQL queries used for the analysis.
 - `README.md`: Documentation for the project.
 
@@ -36,6 +36,3 @@ This project showcases:
 - Aggregation and statistical operations.
 - Business insights generation through SQL.
 
-
-### Contributing
-Contributions are welcome! If you find issues or have suggestions, feel free to open a pull request.
